@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Test on 派蒙</title>
+        <link>https://yuanshenplus.github.io/go/categories/test/</link>
+        <description>Recent content in Test on 派蒙</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>上海米哈游网络科技股份有限公司</copyright><atom:link href="https://yuanshenplus.github.io/go/categories/test/index.xml" rel="self" type="application/rss+xml" />
+    </channel>
+</rss>
